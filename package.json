@@ -1,0 +1,51 @@
+{
+  "name": "vscode-settings-share-rioukkevin",
+  "displayName": "vscode-settings-share-rioukkevin",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "artdiniz.quitcontrol-vscode", 
+    "atlassian.atlascode", 
+    "better-ts-errors.better-ts-errors", 
+    "BracketPairColorDLW.bracket-pair-color-dlw", 
+    "bradlc.vscode-tailwindcss", 
+    "byi8220.indented-block-highlighting", 
+    "DaGhostman.vs-treeview", 
+    "dbaeumer.vscode-eslint", 
+    "dotenv.dotenv-vscode", 
+    "dsznajder.es7-react-js-snippets", 
+    "eamodio.gitlens", 
+    "esbenp.prettier-vscode", 
+    "GitHub.github-vscode-theme", 
+    "GraphQL.vscode-graphql", 
+    "GraphQL.vscode-graphql-execution", 
+    "GraphQL.vscode-graphql-syntax", 
+    "johnpapa.vscode-peacock", 
+    "kamikillerto.vscode-colorize", 
+    "koalamer.workspace-in-status-bar", 
+    "mhutchie.git-graph", 
+    "michelemelluso.gitignore", 
+    "miguelsolorio.fluent-icons", 
+    "ms-vsliveshare.vsliveshare", 
+    "pflannery.vscode-versionlens", 
+    "PKief.material-icon-theme", 
+    "pnp.polacode", 
+    "pomber.git-file-history", 
+    "redhat.vscode-xml", 
+    "redhat.vscode-yaml", 
+    "rioukkevin.vscode-git-buttons", 
+    "rioukkevin.vscode-git-commit", 
+    "rvest.vs-code-prettier-eslint", 
+    "SonarSource.sonarlint-vscode", 
+    "usernamehw.errorlens", 
+    "withfig.fig", 
+    "wmaurer.change-case", 
+    "wraith13.bracket-lens"
+  ]
+}
